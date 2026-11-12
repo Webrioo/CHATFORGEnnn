@@ -1,3 +1,4 @@
+
 // Vercel serverless function: /api/chat  (Gemini 3.5 Flash-Lite)
 // Needs one environment variable in Vercel: GEMINI_API_KEY
 // Optional: GEMINI_MODEL (default gemini-3.5-flash-lite), SHEET_CSV_URL
